@@ -1,0 +1,10 @@
+version: 2
+seeds:
+  - name: hour
+    config:
+      column_types: 
+        dteday: date
+  - name: day
+    config:
+      column_types:
+        dteday: date
